@@ -1,0 +1,13 @@
+D:\OOP--Assignment\obj\Debug\net5.0\OOP--Assignment.csprojAssemblyReference.cache
+D:\OOP--Assignment\obj\Debug\net5.0\OOP--Assignment.AssemblyInfoInputs.cache
+D:\OOP--Assignment\obj\Debug\net5.0\OOP--Assignment.AssemblyInfo.cs
+D:\OOP--Assignment\obj\Debug\net5.0\OOP--Assignment.csproj.CoreCompileInputs.cache
+D:\OOP--Assignment\bin\Debug\net5.0\OOP--Assignment.exe
+D:\OOP--Assignment\bin\Debug\net5.0\OOP--Assignment.deps.json
+D:\OOP--Assignment\bin\Debug\net5.0\OOP--Assignment.runtimeconfig.json
+D:\OOP--Assignment\bin\Debug\net5.0\OOP--Assignment.runtimeconfig.dev.json
+D:\OOP--Assignment\bin\Debug\net5.0\OOP--Assignment.dll
+D:\OOP--Assignment\bin\Debug\net5.0\OOP--Assignment.pdb
+D:\OOP--Assignment\obj\Debug\net5.0\OOP--Assignment.dll
+D:\OOP--Assignment\obj\Debug\net5.0\OOP--Assignment.pdb
+D:\OOP--Assignment\obj\Debug\net5.0\OOP--Assignment.genruntimeconfig.cache
